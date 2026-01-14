@@ -39,7 +39,7 @@ const Kesiswaan = () => {
               Kesiswaan
             </h1>
             <p className="text-lg text-primary-foreground/90">
-              Kegiatan, ekstrakurikuler, dan prestasi siswa MTs Al Ittihaad
+              Kegiatan, ekstrakurikuler, dan prestasi santriwan santriwati MTs AL-ITTIHAAD CIKAJANG
             </p>
           </div>
         </div>
@@ -84,7 +84,7 @@ const Kesiswaan = () => {
               Ekstrakurikuler
             </h2>
             <p className="text-muted-foreground max-w-2xl mx-auto mt-4">
-              Berbagai pilihan kegiatan ekstrakurikuler untuk mengembangkan bakat dan minat siswa
+              Berbagai pilihan kegiatan ekstrakurikuler yang mewadahi kemampuan santriwan dan santriwati
             </p>
           </div>
 

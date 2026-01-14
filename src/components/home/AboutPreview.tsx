@@ -23,13 +23,13 @@ const AboutPreview = () => {
                 <div className="aspect-[4/5] rounded-2xl bg-gradient-to-br from-primary to-primary/80 islamic-pattern flex items-center justify-center">
                   <div className="text-center p-6">
                     <p className="text-primary-foreground/90 text-sm mb-2">Didirikan</p>
-                    <p className="text-4xl font-bold text-primary-foreground">1985</p>
+                    <p className="text-4xl font-bold text-primary-foreground">1994</p>
                     <p className="text-primary-foreground/80 text-sm mt-2">Tahun Pengalaman</p>
                   </div>
                 </div>
                 <div className="aspect-square rounded-2xl bg-accent flex items-center justify-center p-6">
                   <div className="text-center">
-                    <p className="text-5xl font-bold text-primary mb-2">A</p>
+                    <p className="text-5xl font-bold text-primary mb-2">B</p>
                     <p className="text-sm text-muted-foreground">Akreditasi</p>
                   </div>
                 </div>
@@ -37,7 +37,7 @@ const AboutPreview = () => {
               <div className="space-y-4 pt-8">
                 <div className="aspect-square rounded-2xl bg-secondary/20 flex items-center justify-center p-6">
                   <div className="text-center">
-                    <p className="text-4xl font-bold text-foreground mb-2">39+</p>
+                    <p className="text-4xl font-bold text-foreground mb-2">30+</p>
                     <p className="text-sm text-muted-foreground">Tahun Berdiri</p>
                   </div>
                 </div>
@@ -65,12 +65,12 @@ const AboutPreview = () => {
               Membangun Generasi Islami yang Berilmu dan Berakhlak
             </h2>
             <p className="text-muted-foreground mb-6 leading-relaxed">
-              MTs Al Ittihaad adalah madrasah tsanawiyah di bawah naungan Persatuan Islam (Persis) 
+              MTs AL-ITTIHAAD CIKAJANG adalah madrasah tsanawiyah di bawah naungan Persatuan Islam (Persis) 
               yang berkomitmen untuk mencetak generasi muda Muslim yang tidak hanya unggul dalam 
               bidang akademik, tetapi juga memiliki akhlak mulia dan pemahaman agama yang kuat.
             </p>
             <p className="text-muted-foreground mb-8 leading-relaxed">
-              Dengan menggabungkan kurikulum Persis dan Kurikulum Nasional dari Kementerian Agama, 
+              Dengan program unggulan Tahfidz Al-Qur'an dan kurikulum terintegrasi, 
               kami memberikan pendidikan yang seimbang antara ilmu pengetahuan umum dan ilmu agama Islam.
             </p>
 

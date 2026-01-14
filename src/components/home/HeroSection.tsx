@@ -30,15 +30,13 @@ const HeroSection = () => {
 
           {/* Heading */}
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground leading-tight mb-6 animate-slide-up">
-            Mencetak Generasi{" "}
-            <span className="text-secondary">Qurani</span> yang{" "}
-            <span className="text-secondary">Berprestasi</span>
+            MTs <span className="text-secondary">AL-ITTIHAAD</span>{" "}
+            <span className="text-secondary">CIKAJANG</span>
           </h1>
 
           {/* Subheading */}
           <p className="text-lg md:text-xl text-primary-foreground/90 mb-8 leading-relaxed animate-slide-up animation-delay-100">
-            MTs Al Ittihaad menggabungkan kurikulum Persatuan Islam (Persis) dan Kurikulum Nasional
-            untuk membentuk generasi muda yang berilmu, berakhlak mulia, dan siap menghadapi tantangan masa depan.
+            Terwujudnya Pesantren sebagai miniatur masyarakat Islami dan lembaga pendidikan unggulan
           </p>
 
           {/* CTA Buttons */}
