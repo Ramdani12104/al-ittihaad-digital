@@ -13,12 +13,12 @@ const Footer = () => {
                 <span className="text-primary-foreground font-bold text-xl font-arabic">م</span>
               </div>
               <div>
-                <h3 className="font-bold text-lg">MTs Al Ittihaad</h3>
-                <p className="text-sm text-primary-foreground/80">Madrasah Tsanawiyah</p>
+                <h3 className="font-bold text-lg">MTs AL-ITTIHAAD</h3>
+                <p className="text-sm text-primary-foreground/80">Cikajang</p>
               </div>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
-              Mencetak generasi muda yang berilmu, berakhlak mulia, dan berprestasi sesuai dengan nilai-nilai Islam.
+              Terwujudnya Pesantren sebagai miniatur masyarakat Islami dan lembaga pendidikan unggulan.
             </p>
           </div>
 
@@ -91,7 +91,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 mt-10 pt-6 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-primary-foreground/70 text-sm text-center md:text-left">
-            © {new Date().getFullYear()} MTs Al Ittihaad. Hak Cipta Dilindungi.
+            © {new Date().getFullYear()} MTs AL-ITTIHAAD CIKAJANG. Hak Cipta Dilindungi.
           </p>
           <p className="text-primary-foreground/70 text-sm font-arabic text-center">
             بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم

@@ -2,7 +2,7 @@ import Layout from "@/components/layout/Layout";
 import { Target, Eye, Users, GraduationCap, Building } from "lucide-react";
 
 const visiMisi = {
-  visi: "Menjadi madrasah unggulan yang mencetak generasi Qurani, berilmu, berakhlak mulia, dan berprestasi di tingkat nasional.",
+  visi: "Terwujudnya Pesantren sebagai miniatur masyarakat Islami dan lembaga pendidikan unggulan",
   misi: [
     "Menyelenggarakan pendidikan berbasis Al-Quran dan Sunnah sesuai manhaj Persatuan Islam",
     "Mengintegrasikan kurikulum keagamaan dengan kurikulum nasional secara seimbang",
@@ -43,7 +43,7 @@ const Profil = () => {
               Profil Sekolah
             </h1>
             <p className="text-lg text-primary-foreground/90">
-              Mengenal lebih dekat MTs Al Ittihaad, madrasah tsanawiyah di bawah naungan Persatuan Islam (Persis)
+              Mengenal lebih dekat MTs AL-ITTIHAAD CIKAJANG, madrasah tsanawiyah di bawah naungan Persatuan Islam (Persis)
             </p>
           </div>
         </div>
@@ -63,20 +63,21 @@ const Profil = () => {
             </div>
             <div className="prose prose-lg max-w-none text-muted-foreground">
               <p className="leading-relaxed mb-6">
-                MTs Al Ittihaad didirikan pada tahun 1985 oleh para tokoh Persatuan Islam (Persis) di Kota Bandung 
+                MTs AL-ITTIHAAD CIKAJANG didirikan pada tahun 1994 oleh para tokoh Persatuan Islam (Persis) di Cikajang 
                 dengan visi untuk menyediakan pendidikan Islam yang berkualitas bagi generasi muda Muslim. 
                 Nama "Al Ittihaad" yang berarti "Persatuan" mencerminkan semangat persatuan umat Islam 
                 dalam menegakkan ajaran Al-Quran dan Sunnah.
               </p>
               <p className="leading-relaxed mb-6">
-                Berawal dari beberapa ruang kelas sederhana dengan puluhan siswa, kini MTs Al Ittihaad 
+                Berawal dari beberapa ruang kelas sederhana dengan puluhan siswa, kini MTs AL-ITTIHAAD CIKAJANG 
                 telah berkembang menjadi madrasah yang memiliki fasilitas lengkap dan telah meluluskan 
-                ribuan alumni yang berkontribusi di berbagai bidang.
+                ribuan alumni yang berkontribusi di berbagai bidang. Dengan akreditasi B, kami terus berbenah 
+                untuk memberikan pendidikan terbaik.
               </p>
               <p className="leading-relaxed">
-                Dengan konsistensi dalam memegang prinsip pendidikan Islam dan terus beradaptasi dengan 
-                perkembangan zaman, MTs Al Ittihaad berkomitmen untuk terus mencetak generasi Qurani 
-                yang berprestasi dan berakhlak mulia.
+                Program unggulan kami adalah Tahfidz Al-Qur'an yang membimbing santriwan dan santriwati 
+                untuk menghafal dan memahami Al-Qur'an. Dengan berbagai ekstrakurikuler yang mewadahi 
+                kemampuan santriwan dan santriwati, kami berkomitmen untuk mencetak generasi Qurani yang berprestasi.
               </p>
             </div>
           </div>

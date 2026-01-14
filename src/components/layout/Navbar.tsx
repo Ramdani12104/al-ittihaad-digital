@@ -31,8 +31,8 @@ const Navbar = () => {
               <span className="text-primary-foreground font-bold text-lg md:text-xl font-arabic">م</span>
             </div>
             <div className="flex flex-col">
-              <span className="font-bold text-primary text-sm md:text-base">MTs Al Ittihaad</span>
-              <span className="text-xs text-muted-foreground hidden sm:block">Madrasah Tsanawiyah</span>
+              <span className="font-bold text-primary text-sm md:text-base">MTs AL-ITTIHAAD</span>
+              <span className="text-xs text-muted-foreground hidden sm:block">Cikajang</span>
             </div>
           </Link>
 
